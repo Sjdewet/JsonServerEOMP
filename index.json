@@ -2,37 +2,37 @@
     "skills": [
             { 
         "ID": 1,
-        "image": "https://i.postimg.cc/8PLx4YS0/html-png.png",
+        "image": "https://i.postimg.cc/dVMRCP8L/html.png",
         "title": "Html",
         "skill level": "intermediate"
     },
     { 
         "ID": 2,
-        "image": "https://i.postimg.cc/pT0KRsxY/pngegg.png",
+        "image": "https://i.postimg.cc/0y2DgY10/css.png",
         "title": "CSS",
         "skill level": "intermediate"
     },
     { 
         "ID": 3,
-        "image": "https://i.postimg.cc/MTpTDxRq/jasc.png",
+        "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
         "title": "Javascript",
         "skill level": "Beginner"
     },
     { 
         "ID": 4,
-        "image": "https://i.postimg.cc/qvKjJHNJ/git.png",
+        "image": "https://i.postimg.cc/C1fLxGYz/pngegg-5.png",
         "title": "Git",
         "skill level": "intermediate"
     },
     { 
         "ID": 5,
-        "image": "https://i.postimg.cc/V60jRjXY/bootstrap-2.png",
+        "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
         "title": "Bootstrap",
         "skill level": "intermediate"
     },
     { 
         "ID": 6,
-        "image": "https://i.postimg.cc/cH1fppqL/vuee.png",
+        "image": "https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
         "title": "Vue",
         "skill level": "intermediate"
     }
@@ -45,7 +45,7 @@
     },
     { 
         "ID": 2,
-        "image": "https://i.postimg.cc/d0VxBSWG/lc.jpg",
+        "image": "https://i.postimg.cc/L84hRgWM/lc.png",
         "title": "Education and Experience:",
         "Education": "2023-Current - Life Choices Coding Academy"
     }
@@ -100,7 +100,7 @@
         {"ID": 1,
            "image": "https://i.postimg.cc/h4Vjms5K/Mish-Al-Taliep.jpg",
            "Name": "Mish-Al Taliep",
-           "test": "Summer is a very dedicated worker and takes pride in her work. she works well with all her peers and she is a great supporter.She handles stress very well and she has alot of potential as well as an unwavering commitment to excellence approaching every project with a high level of professionalism and dedication and has a natural curiosity and thirst for knowledge."
+           "test": "Summer is a very dedicated and hardworking person who takes pride in her work. she works well with all her peers and she is a great supporter.She handles stress very well and she has alot of potential as well as an unwavering commitment to excellence approaching every project with a high level of professionalism and dedication and has a natural curiosity and thirst for knowledge."
         },
 
         {"ID": 2,
