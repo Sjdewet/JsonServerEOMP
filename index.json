@@ -39,13 +39,13 @@
     ],
     "education": [
        { "ID": 1,
-       "image": "https://i.postimg.cc/mZJ89rf3/sp.png",
+       "image": "https://i.postimg.cc/rsNtcKB0/sphigghorg.webp",
        "title": "Education and Experience:",
        "Education": "2018-2022 - South Peninsula High School"
     },
     { 
         "ID": 2,
-        "image": "https://i.postimg.cc/L84hRgWM/lc.png",
+        "image": "https://i.postimg.cc/nV3F845K/Lifechoices-300x91.jpg",
         "title": "Education and Experience:",
         "Education": "2023-Current - Life Choices Coding Academy"
     }
