@@ -4,37 +4,43 @@
         "ID": 1,
         "image": "https://i.postimg.cc/dVMRCP8L/html.png",
         "title": "Html",
-        "skill level": "intermediate"
+        "skillLevel": "intermediate",
+        "desc": "HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease."
     },
     { 
         "ID": 2,
         "image": "https://i.postimg.cc/0y2DgY10/css.png",
         "title": "CSS",
-        "skill level": "intermediate"
+        "skillLevel": "intermediate",
+        "desc": "CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
     },
     { 
         "ID": 3,
         "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
         "title": "Javascript",
-        "skill level": "Beginner"
+        "skillLevel": "Beginner",
+        "desc": "JavaScript is a challenging language to learn,but with extra effort and dedication, you can get the hang of its intuitive syntax and straightforward concepts."
     },
     { 
         "ID": 4,
         "image": "https://i.postimg.cc/C1fLxGYz/pngegg-5.png",
         "title": "Git",
-        "skill level": "intermediate"
+        "skillLevel": "intermediate",
+        "desc": "I am very dedicated to using GitHub. I find it to be an invaluable tool for tracking my code changes, pushing my work to remote repositories, and collaborating with other developers. I'm proud of how far I've come in my understanding of using GitHub."
     },
     { 
         "ID": 5,
         "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
         "title": "Bootstrap",
-        "skill level": "intermediate"
+        "skillLevel": "intermediate",
+        "desc": "Bootstrap is incredibly easy-to-use, making it a great choice for developers (like myself) of all skill levels to make use of. With its intuitive syntax, creating responsive websites and apps with Bootstrap has never been simpler."
     },
     { 
         "ID": 6,
         "image": "https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
         "title": "Vue",
-        "skill level": "intermediate"
+        "skillLevel": "intermediate",
+        "desc": "I was surprised at how quickly I learned to use Vue. With its intuitive syntax and well-structured documentation, it's incredible how quickly I became proficient with Vue. Im looking forward to learning more"
     }
     ],
     "education": [
@@ -110,7 +116,7 @@
         },
         {"ID": 3,
            "image": "https://i.postimg.cc/kGN2090d/C12-Justin-Scholtz-3-min.jpg",
-           "Name": "Justin Scoltz",
+           "Name": "Justin Scholtz",
            "test": "Summer's name alone describes her personality, she is always in a happy mood, ready to take on any challenge that comes her way. She's definitely someone I would want on my team because she can inspire those around her to do their best. She's learned a lot on her journey to becoming a front end developer and I believe she is ready to take on any opportunity that comes her way."
         },
         {"ID": 4,
@@ -120,7 +126,7 @@
         },
         {"ID": 5,
            "image": "https://i.postimg.cc/5y4N2rmp/IMG-20220710-111128.jpg",
-           "Name": "Abdul-Aziz Kemp",
+           "Name": "Abdul-Azeez Kemp",
            "test": "Summer is a hard-working and compassionate individual. She never hesitates to assist others in need and is committed to achieving her goals. Her determined attitude and welcoming personality allows her to prosper when collaborating with all types of personalities, making her an asset in group projects, as well as individual work."
         }
      ]
