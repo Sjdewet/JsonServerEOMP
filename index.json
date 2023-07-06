@@ -4,43 +4,37 @@
         "ID": 1,
         "image": "https://i.postimg.cc/dVMRCP8L/html.png",
         "title": "Html",
-        "skill level": "intermediate",
-        "description": "HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease."
+        "skill level": "intermediate"
     },
     { 
         "ID": 2,
         "image": "https://i.postimg.cc/0y2DgY10/css.png",
         "title": "CSS",
-        "skill level": "intermediate",
-        "description": "CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
+        "skill level": "intermediate"
     },
     { 
         "ID": 3,
         "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
         "title": "Javascript",
-        "skill level": "Beginner",
-        "description": "JavaScript is a surprisingly easy language to learn, with its intuitive syntax and straightforward concepts. It can be picked up quickly by beginners, making it an ideal choice for those looking to get into coding."
+        "skill level": "Beginner"
     },
     { 
         "ID": 4,
         "image": "https://i.postimg.cc/C1fLxGYz/pngegg-5.png",
         "title": "Git",
-        "skill level": "intermediate",
-        "description": "I am very good with using Git. I find it to be an invaluable tool for tracking my code changes, pushing my work to remote repositories, and collaborating with other developers. I'm proud of how far I've come in my understanding of Git."
+        "skill level": "intermediate"
     },
     { 
         "ID": 5,
         "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
         "title": "Bootstrap",
-        "skill level": "intermediate",
-        "description": "Bootstrap is an incredibly easy-to-use language, making it a great choice for developers (like myself) of all skill levels. With its intuitive syntax, creating responsive websites and apps with Bootstrap has never been simpler."
+        "skill level": "intermediate"
     },
     { 
         "ID": 6,
         "image": "https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
         "title": "Vue",
-        "skill level": "intermediate",
-        "description": "I was amazed at how quickly I learned to use Vue. With its intuitive syntax and well-structured documentation. It's incredible how quickly I became proficient with Vue.js, and I can't wait to explore its endless possibilities further"
+        "skill level": "intermediate"
     }
     ],
     "education": [
