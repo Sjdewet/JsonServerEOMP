@@ -5,21 +5,21 @@
         "image": "https://i.postimg.cc/dVMRCP8L/html.png",
         "title": "Html",
         "skill level": "intermediate",
-        "descripttion": "HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease."
+        "description": "HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease."
     },
     { 
         "ID": 2,
         "image": "https://i.postimg.cc/0y2DgY10/css.png",
         "title": "CSS",
         "skill level": "intermediate",
-        "descripttion": "CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
+        "description": "CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
     },
     { 
         "ID": 3,
         "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
         "title": "Javascript",
         "skill level": "Beginner",
-        "descripttion": "JavaScript is a surprisingly easy language to learn, with its intuitive syntax and straightforward concepts. It can be picked up quickly by beginners, making it an ideal choice for those looking to get into coding."
+        "description": "JavaScript is a surprisingly easy language to learn, with its intuitive syntax and straightforward concepts. It can be picked up quickly by beginners, making it an ideal choice for those looking to get into coding."
     },
     { 
         "ID": 4,
