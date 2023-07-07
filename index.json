@@ -4,14 +4,14 @@
         "ID": 1,
         "image": "https://i.postimg.cc/dVMRCP8L/html.png",
         "title": "Html",
-        "skillLevel": "intermediate",
+        "skillLevel": "Intermediate",
         "desc": "HTML is a very straightforward language to learn and is incredibly easy to use, even for beginners. With only a basic understanding of HTML, you can create webpages with ease."
     },
     { 
         "ID": 2,
         "image": "https://i.postimg.cc/0y2DgY10/css.png",
         "title": "CSS",
-        "skillLevel": "intermediate",
+        "skillLevel": "Intermediate",
         "desc": "CSS is an incredibly easy language to learn, with its simple syntax and straightforward rules. It is a great language for beginners to web development, as it can be picked up quickly and put into practice with tangible results."
     },
     { 
@@ -25,21 +25,21 @@
         "ID": 4,
         "image": "https://i.postimg.cc/C1fLxGYz/pngegg-5.png",
         "title": "Git",
-        "skillLevel": "intermediate",
+        "skillLevel": "Intermediate",
         "desc": "I am very dedicated to using GitHub. I find it to be an invaluable tool for tracking my code changes, pushing my work to remote repositories, and collaborating with other developers. I'm proud of how far I've come in my understanding of using GitHub."
     },
     { 
         "ID": 5,
         "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
         "title": "Bootstrap",
-        "skillLevel": "intermediate",
+        "skillLevel": "Intermediate",
         "desc": "Bootstrap is incredibly easy-to-use, making it a great choice for developers (like myself) of all skill levels to make use of. With its intuitive syntax, creating responsive websites and apps with Bootstrap has never been simpler."
     },
     { 
         "ID": 6,
         "image": "https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
         "title": "Vue",
-        "skillLevel": "intermediate",
+        "skillLevel": "Intermediate",
         "desc": "I was surprised at how quickly I learned to use Vue. With its intuitive syntax and well-structured documentation, it's incredible how quickly I became proficient with Vue. Im looking forward to learning more"
     }
     ],
@@ -47,13 +47,13 @@
        { "ID": 1,
        "image": "https://i.postimg.cc/mZJ89rf3/sp.png",
        "title": "Education and Experience:",
-       "Education": "2018-2022 - South Peninsula High School"
+       "Education": "Years: 2018-2022 - South Peninsula High School ."
     },
     { 
         "ID": 2,
         "image": "https://i.postimg.cc/L84hRgWM/lc.png",
         "title": "Education and Experience:",
-        "Education": "2023-Current - Life Choices Coding Academy"
+        "Education": "Years: 2023-Current - Life Choices Coding Academy ."
     }
     ],
     "projects": [
